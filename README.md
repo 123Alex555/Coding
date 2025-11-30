@@ -5,7 +5,6 @@ int main(){
     int a,b,c;
     cin>>a>>b>>c;
     int w=a+b+c;
-    
     if(w>100){
         cout<<"Eorror";
     }
